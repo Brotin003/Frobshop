@@ -1,5 +1,5 @@
-# Frobshop
-E-commerce wesite for learning purpose
+# Frobshop-A whole market at your doorstep
+E-commerce wesite for learning purpose.
 
 ## Requirements
 Pip install following packages
